@@ -1,0 +1,9 @@
+=== Session de logging démarrée le 2025-06-10 19:31:43 ===
+[2025-06-10 19:31:43] INFO - TEST: FileLogger créé et fonctionnel
+[2025-06-10 19:31:43] INFO - TEST: Basculement vers logging fichier réussi
+[2025-06-10 19:31:43] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 19:31:48] INFO - Nouveau dessin créé
+[2025-06-10 19:31:49] DEBUG - Clic de souris à (260,80, 225,60) - Mode: PATH_SELECTION, Click Count: 1
+[2025-06-10 19:31:50] INFO - Type de forme sélectionné: CIRCLE
+[2025-06-10 19:31:51] DEBUG - Clic de souris à (181,60, 170,40) - Mode: PATH_SELECTION, Click Count: 1
+=== Session de logging terminée le 2025-06-10 19:31:52 ===

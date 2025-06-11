@@ -1,0 +1,12 @@
+=== FICHIER DE LOG DE SESSION ===
+=== Application de Dessin - Formes Géométriques ===
+=== Session démarrée le: 2025-06-10 21:12:16 ===
+=== Fichier: session_20250610_211216_578.log ===
+=== Répertoire: C:\Users\HP\Downloads\modelisation Proj\modelisation\modelisation\modelisation\modelisation\logs ===
+
+=== Session de logging démarrée le 2025-06-10 21:13:38 ===
+[2025-06-10 21:13:38] INFO - === BASCULEMENT VERS LOGGING FICHIER ===
+[2025-06-10 21:13:38] INFO - Session d'application - Logging fichier activé
+[2025-06-10 21:13:38] INFO - Fichier de session: logs/session_20250610_211216_578.log
+[2025-06-10 21:13:38] INFO - Stratégie de logging changée: Fichier
+=== Session de logging terminée le 2025-06-10 21:14:01 ===

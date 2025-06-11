@@ -1,0 +1,22 @@
+=== FICHIER DE LOG AUTOMATIQUE POUR DESSIN ===
+=== Dessin: Nouveau dessin ===
+=== Créé le: 2025-06-10 20:24:28 ===
+=== Fichier: dessin_Nouveau_dessin_20250610_202428_775.log ===
+
+=== Session de logging démarrée le 2025-06-10 20:27:49 ===
+[2025-06-10 20:27:49] INFO - === BASCULEMENT VERS LOGGING FICHIER ===
+[2025-06-10 20:27:49] INFO - Logging fichier activé pour le dessin actuel
+[2025-06-10 20:27:49] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 20:27:49] DEBUG - Début du dessin à (162,40, 86,40)
+[2025-06-10 20:27:49] INFO - Forme ajoutée: Line[start=(162,40,86,40), end=(345,60,244,80), color=0x000000ff]
+[2025-06-10 20:27:49] INFO - Forme créée: Line[start=(162,40,86,40), end=(345,60,244,80), color=0x000000ff]
+[2025-06-10 20:27:49] DEBUG - Clic de souris à (345,60, 244,80) - Mode: NORMAL, Click Count: 1
+[2025-06-10 20:27:50] DEBUG - Début du dessin à (265,60, 389,60)
+[2025-06-10 20:27:50] INFO - Forme ajoutée: Line[start=(265,60,389,60), end=(451,20,372,80), color=0x000000ff]
+[2025-06-10 20:27:50] INFO - Forme créée: Line[start=(265,60,389,60), end=(451,20,372,80), color=0x000000ff]
+[2025-06-10 20:27:50] DEBUG - Clic de souris à (451,20, 372,80) - Mode: NORMAL, Click Count: 1
+[2025-06-10 20:27:51] DEBUG - Début du dessin à (376,80, 516,80)
+[2025-06-10 20:27:51] INFO - Forme ajoutée: Line[start=(376,80,516,80), end=(480,80,262,40), color=0x000000ff]
+[2025-06-10 20:27:51] INFO - Forme créée: Line[start=(376,80,516,80), end=(480,80,262,40), color=0x000000ff]
+[2025-06-10 20:27:51] DEBUG - Clic de souris à (480,80, 262,40) - Mode: NORMAL, Click Count: 1
+=== Session de logging terminée le 2025-06-10 20:27:55 ===

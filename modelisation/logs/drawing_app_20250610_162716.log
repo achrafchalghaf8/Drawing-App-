@@ -1,0 +1,11 @@
+=== Session de logging démarrée le 2025-06-10 16:27:16 ===
+[2025-06-10 16:27:16] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 16:27:46] DEBUG - Début du dessin à (129,60, 173,60)
+[2025-06-10 16:27:47] INFO - Forme ajoutée: Line[start=(129,60,173,60), end=(204,80,362,40), color=0x000000ff]
+[2025-06-10 16:27:47] INFO - Forme créée: Line[start=(129,60,173,60), end=(204,80,362,40), color=0x000000ff]
+[2025-06-10 16:27:47] DEBUG - Clic de souris à (204,80, 362,40) - Mode: NORMAL, Click Count: 1
+[2025-06-10 16:28:39] INFO - Nom du dessin changé: new
+[2025-06-10 16:28:39] INFO - Dessin sauvegardé en base de données, ID: 1 avec 8 formes
+[2025-06-10 16:30:16] INFO - Nom du dessin changé: lllllllll
+[2025-06-10 16:30:16] INFO - Dessin sauvegardé dans le fichier: lllllllll.json (8 formes)
+=== Session de logging terminée le 2025-06-10 16:31:10 ===

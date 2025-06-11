@@ -1,0 +1,52 @@
+=== NOUVEAU FICHIER DE LOG ===
+=== Session démarrée le 2025-06-10 20:10:01 ===
+=== Fichier: drawing_app_20250610_201001_203.log ===
+=== Répertoire: C:\Users\HP\Downloads\modelisation Proj\modelisation\modelisation\modelisation\modelisation\logs ===
+=== Basculement vers logging fichier ===
+
+[2025-06-10 20:10:01] INFO - TEST: FileLogger créé et fonctionnel
+[2025-06-10 20:10:01] INFO - TEST: Basculement vers logging fichier réussi
+[2025-06-10 20:10:01] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 20:10:01] DEBUG - Début du dessin à (227,20, 78,40)
+[2025-06-10 20:10:01] INFO - Forme ajoutée: Rectangle[x=227,20, y=78,40, width=353,60, height=267,20, color=0x000000ff]
+[2025-06-10 20:10:01] INFO - 2D Rectangle added at (227,20, 78,40)
+[2025-06-10 20:10:01] DEBUG - Clic de souris à (580,80, 345,60) - Mode: NORMAL, Click Count: 1
+[2025-06-10 20:10:02] DEBUG - Début du dessin à (400,00, 272,80)
+[2025-06-10 20:10:02] INFO - Forme ajoutée: Rectangle[x=400,00, y=272,80, width=240,80, height=102,40, color=0x000000ff]
+[2025-06-10 20:10:02] INFO - 2D Rectangle added at (400,00, 272,80)
+[2025-06-10 20:10:02] DEBUG - Clic de souris à (640,80, 375,20) - Mode: NORMAL, Click Count: 1
+[2025-06-10 20:10:24] INFO - Dessin effacé - 21 formes supprimées
+[2025-06-10 20:10:24] INFO - Dessin effacé
+[2025-06-10 20:10:25] INFO - Type de forme sélectionné: CIRCLE
+[2025-06-10 20:10:29] DEBUG - Début du dessin à (133,60, 90,40)
+[2025-06-10 20:10:30] INFO - Forme ajoutée: Circle[centerX=133,60, centerY=90,40, radius=38,28, color=0x000000ff]
+[2025-06-10 20:10:30] INFO - 2D Circle added at (133,60, 90,40)
+[2025-06-10 20:10:30] DEBUG - Clic de souris à (168,00, 107,20) - Mode: NORMAL, Click Count: 1
+[2025-06-10 20:10:30] DEBUG - Début du dessin à (324,80, 145,60)
+[2025-06-10 20:10:32] INFO - Forme ajoutée: Circle[centerX=324,80, centerY=145,60, radius=46,22, color=0x000000ff]
+[2025-06-10 20:10:32] INFO - 2D Circle added at (324,80, 145,60)
+[2025-06-10 20:10:32] DEBUG - Clic de souris à (367,20, 164,00) - Mode: NORMAL, Click Count: 1
+[2025-06-10 20:10:33] DEBUG - Début du dessin à (508,00, 271,20)
+[2025-06-10 20:10:33] INFO - Forme ajoutée: Circle[centerX=508,00, centerY=271,20, radius=38,01, color=0x000000ff]
+[2025-06-10 20:10:33] INFO - 2D Circle added at (508,00, 271,20)
+[2025-06-10 20:10:33] DEBUG - Clic de souris à (540,80, 290,40) - Mode: NORMAL, Click Count: 1
+[2025-06-10 20:10:34] DEBUG - Début du dessin à (300,80, 412,00)
+[2025-06-10 20:10:35] INFO - Forme ajoutée: Circle[centerX=300,80, centerY=412,00, radius=39,73, color=0x000000ff]
+[2025-06-10 20:10:35] INFO - 2D Circle added at (300,80, 412,00)
+[2025-06-10 20:10:35] DEBUG - Clic de souris à (336,80, 428,80) - Mode: NORMAL, Click Count: 1
+[2025-06-10 20:10:37] INFO - Type de forme sélectionné: LINE
+[2025-06-10 20:10:38] DEBUG - Début du dessin à (169,60, 96,80)
+[2025-06-10 20:10:40] INFO - Forme ajoutée: Line[start=(169,60,96,80), end=(280,80,129,60), color=0x000000ff]
+[2025-06-10 20:10:40] INFO - Forme créée: Line[start=(169,60,96,80), end=(280,80,129,60), color=0x000000ff]
+[2025-06-10 20:10:40] DEBUG - Clic de souris à (280,80, 129,60) - Mode: NORMAL, Click Count: 1
+[2025-06-10 20:10:41] DEBUG - Début du dessin à (364,00, 166,40)
+[2025-06-10 20:10:42] INFO - Forme ajoutée: Line[start=(364,00,166,40), end=(476,00,250,40), color=0x000000ff]
+[2025-06-10 20:10:42] INFO - Forme créée: Line[start=(364,00,166,40), end=(476,00,250,40), color=0x000000ff]
+[2025-06-10 20:10:42] DEBUG - Clic de souris à (476,00, 250,40) - Mode: NORMAL, Click Count: 1
+[2025-06-10 20:10:43] DEBUG - Début du dessin à (479,20, 293,60)
+[2025-06-10 20:10:47] INFO - Forme ajoutée: Line[start=(479,20,293,60), end=(336,00,390,40), color=0x000000ff]
+[2025-06-10 20:10:47] INFO - Forme créée: Line[start=(479,20,293,60), end=(336,00,390,40), color=0x000000ff]
+[2025-06-10 20:10:47] DEBUG - Clic de souris à (336,00, 390,40) - Mode: NORMAL, Click Count: 1
+[2025-06-10 20:11:02] INFO - Nom du dessin changé: mm
+[2025-06-10 20:11:02] INFO - Dessin sauvegardé dans le fichier: mm.json (7 formes)
+=== Session de logging terminée le 2025-06-10 20:11:13 ===

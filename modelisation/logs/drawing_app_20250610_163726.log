@@ -1,0 +1,27 @@
+=== Session de logging démarrée le 2025-06-10 16:37:26 ===
+[2025-06-10 16:37:26] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 16:37:29] DEBUG - Début du dessin à (283,20, 197,60)
+[2025-06-10 16:37:30] INFO - Forme ajoutée: Rectangle[x=283,20, y=197,60, width=89,60, height=80,80, color=0x000000ff]
+[2025-06-10 16:37:30] INFO - 2D Rectangle added at (283,20, 197,60)
+[2025-06-10 16:37:30] DEBUG - Clic de souris à (372,80, 278,40) - Mode: NORMAL, Click Count: 1
+[2025-06-10 16:37:30] DEBUG - Début du dessin à (572,00, 212,80)
+[2025-06-10 16:37:31] INFO - Forme ajoutée: Rectangle[x=572,00, y=212,80, width=79,20, height=90,40, color=0x000000ff]
+[2025-06-10 16:37:31] INFO - 2D Rectangle added at (572,00, 212,80)
+[2025-06-10 16:37:31] DEBUG - Clic de souris à (651,20, 303,20) - Mode: NORMAL, Click Count: 1
+[2025-06-10 16:37:31] DEBUG - Début du dessin à (499,20, 185,60)
+[2025-06-10 16:37:31] INFO - Forme ajoutée: Rectangle[x=469,60, y=37,60, width=29,60, height=148,00, color=0x000000ff]
+[2025-06-10 16:37:31] INFO - 2D Rectangle added at (469,60, 37,60)
+[2025-06-10 16:37:31] DEBUG - Clic de souris à (469,60, 37,60) - Mode: NORMAL, Click Count: 1
+[2025-06-10 16:37:32] DEBUG - Début du dessin à (360,00, 53,60)
+[2025-06-10 16:37:32] INFO - Forme ajoutée: Rectangle[x=144,00, y=53,60, width=216,00, height=26,40, color=0x000000ff]
+[2025-06-10 16:37:32] INFO - 2D Rectangle added at (144,00, 53,60)
+[2025-06-10 16:37:32] DEBUG - Clic de souris à (144,00, 80,00) - Mode: NORMAL, Click Count: 1
+[2025-06-10 16:37:33] DEBUG - Début du dessin à (104,00, 328,00)
+[2025-06-10 16:37:33] INFO - Forme ajoutée: Rectangle[x=104,00, y=328,00, width=49,60, height=131,20, color=0x000000ff]
+[2025-06-10 16:37:33] INFO - 2D Rectangle added at (104,00, 328,00)
+[2025-06-10 16:37:33] DEBUG - Clic de souris à (153,60, 459,20) - Mode: NORMAL, Click Count: 1
+[2025-06-10 16:37:33] DEBUG - Début du dessin à (340,00, 490,40)
+[2025-06-10 16:37:34] INFO - Forme ajoutée: Rectangle[x=340,00, y=490,40, width=73,60, height=28,80, color=0x000000ff]
+[2025-06-10 16:37:34] INFO - 2D Rectangle added at (340,00, 490,40)
+[2025-06-10 16:37:34] DEBUG - Clic de souris à (413,60, 519,20) - Mode: NORMAL, Click Count: 1
+=== Session de logging terminée le 2025-06-10 16:44:46 ===

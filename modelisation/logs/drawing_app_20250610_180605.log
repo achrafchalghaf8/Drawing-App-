@@ -1,0 +1,19 @@
+=== Session de logging démarrée le 2025-06-10 18:06:05 ===
+[2025-06-10 18:06:05] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 18:06:28] DEBUG - Début du dessin à (256,00, 169,60)
+[2025-06-10 18:06:28] INFO - Forme ajoutée: Rectangle[x=256,00, y=169,60, width=186,40, height=142,40, color=0x000000ff]
+[2025-06-10 18:06:28] INFO - 2D Rectangle added at (256,00, 169,60)
+[2025-06-10 18:06:28] DEBUG - Clic de souris à (442,40, 312,00) - Mode: NORMAL, Click Count: 1
+[2025-06-10 18:06:29] DEBUG - Début du dessin à (390,40, 453,60)
+[2025-06-10 18:06:29] INFO - Forme ajoutée: Rectangle[x=390,40, y=453,60, width=260,00, height=108,00, color=0x000000ff]
+[2025-06-10 18:06:29] INFO - 2D Rectangle added at (390,40, 453,60)
+[2025-06-10 18:06:29] DEBUG - Clic de souris à (650,40, 561,60) - Mode: NORMAL, Click Count: 1
+[2025-06-10 18:06:29] DEBUG - Début du dessin à (579,20, 251,20)
+[2025-06-10 18:06:30] INFO - Forme ajoutée: Rectangle[x=579,20, y=251,20, width=99,20, height=101,60, color=0x000000ff]
+[2025-06-10 18:06:30] INFO - 2D Rectangle added at (579,20, 251,20)
+[2025-06-10 18:06:30] DEBUG - Clic de souris à (678,40, 352,80) - Mode: NORMAL, Click Count: 1
+[2025-06-10 18:06:30] DEBUG - Début du dessin à (518,40, 166,40)
+[2025-06-10 18:06:30] INFO - Forme ajoutée: Rectangle[x=518,40, y=166,40, width=108,80, height=202,40, color=0x000000ff]
+[2025-06-10 18:06:30] INFO - 2D Rectangle added at (518,40, 166,40)
+[2025-06-10 18:06:30] DEBUG - Clic de souris à (627,20, 368,80) - Mode: NORMAL, Click Count: 1
+=== Session de logging terminée le 2025-06-10 18:11:33 ===

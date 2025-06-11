@@ -1,0 +1,87 @@
+=== Session de logging démarrée le 2025-06-10 18:55:47 ===
+[2025-06-10 18:55:47] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 18:56:19] INFO - Dessin ouvert depuis la base de données: new (ID: 1, 8 formes)
+[2025-06-10 18:56:21] INFO - Shortest path mode activated. Waiting for manual node selection.
+[2025-06-10 18:56:21] INFO - Interaction mode set to: PATH_SELECTION
+[2025-06-10 18:56:21] INFO - BuildGraph: Initializing. shapeToNodeMap size before clear: 0
+[2025-06-10 18:56:21] INFO - BuildGraph: shapeToNodeMap size after clear: 0
+[2025-06-10 18:56:21] INFO - BuildGraph: Number of shapes retrieved from drawing: 8
+[2025-06-10 18:56:21] INFO - BuildGraph: Starting node creation loop. Initial graph.getNodesMapSize(): 0
+[2025-06-10 18:56:21] INFO - BuildGraph: Created Node ID: Circle_0adfc196, Label: A, Hash: 156194263 for Shape Hash: 803275244 (Class: Circle). Current graph.getNodesMapSize(): 1, shapeToNodeMap size: 1
+[2025-06-10 18:56:21] INFO - BuildGraph: Created Node ID: Circle_9ad4abcb, Label: B, Hash: 1398916797 for Shape Hash: 2072547143 (Class: Circle). Current graph.getNodesMapSize(): 2, shapeToNodeMap size: 2
+[2025-06-10 18:56:21] INFO - BuildGraph: Created Node ID: Circle_c9e11604, Label: C, Hash: 752259659 for Shape Hash: 156615735 (Class: Circle). Current graph.getNodesMapSize(): 3, shapeToNodeMap size: 3
+[2025-06-10 18:56:21] INFO - BuildGraph: Created Node ID: Circle_394ba6ff, Label: D, Hash: 1339648179 for Shape Hash: 317568217 (Class: Circle). Current graph.getNodesMapSize(): 4, shapeToNodeMap size: 4
+[2025-06-10 18:56:21] INFO - BuildGraph: Created Node ID: Line_2307e7e9, Label: 1, Hash: 1011580274 for Shape Hash: 1397152047 (Class: Line). Current graph.getNodesMapSize(): 5, shapeToNodeMap size: 5
+[2025-06-10 18:56:21] INFO - BuildGraph: Created Node ID: Line_a2896b5b, Label: 2, Hash: 1640108136 for Shape Hash: 1955973900 (Class: Line). Current graph.getNodesMapSize(): 6, shapeToNodeMap size: 6
+[2025-06-10 18:56:21] INFO - BuildGraph: Created Node ID: Line_95cf9dd6, Label: 3, Hash: 2040435409 for Shape Hash: 195162683 (Class: Line). Current graph.getNodesMapSize(): 7, shapeToNodeMap size: 7
+[2025-06-10 18:56:21] INFO - BuildGraph: Created Node ID: Line_799fc53a, Label: 4, Hash: 2097607073 for Shape Hash: 990909296 (Class: Line). Current graph.getNodesMapSize(): 8, shapeToNodeMap size: 8
+[2025-06-10 18:56:21] INFO - BuildGraph: Finished node creation. Final graph.getNodesMapSize() before edge creation: 8, shapeToNodeMap size: 8
+[2025-06-10 18:56:21] INFO - BuildGraph: Number of nodes retrieved for edge creation: 8
+[2025-06-10 18:56:21] INFO - ProximityThreshold: Canvas(414x300), AvgDist=244,36, Nodes=8, Threshold=76,74
+[2025-06-10 18:56:21] INFO - BuildGraph: Using proximity threshold: 76,74
+[2025-06-10 18:56:21] INFO - BuildGraph: Created 0 edges with proximity threshold 76,74
+[2025-06-10 18:56:21] INFO - BuildGraph: Found isolated node: A
+[2025-06-10 18:56:21] INFO - BuildGraph: Found isolated node: 4
+[2025-06-10 18:56:21] INFO - BuildGraph: Found isolated node: 1
+[2025-06-10 18:56:21] INFO - BuildGraph: Found isolated node: 2
+[2025-06-10 18:56:21] INFO - BuildGraph: Found isolated node: 3
+[2025-06-10 18:56:21] INFO - BuildGraph: Found isolated node: B
+[2025-06-10 18:56:21] INFO - BuildGraph: Found isolated node: C
+[2025-06-10 18:56:21] INFO - BuildGraph: Found isolated node: D
+[2025-06-10 18:56:21] INFO - BuildGraph: Connected isolated node A to 1 (distance: 145,22)
+[2025-06-10 18:56:21] INFO - BuildGraph: Connected isolated node 4 to A (distance: 154,87)
+[2025-06-10 18:56:21] INFO - BuildGraph: Connected isolated node 1 to A (distance: 145,22)
+[2025-06-10 18:56:21] INFO - BuildGraph: Connected isolated node 2 to B (distance: 92,22)
+[2025-06-10 18:56:21] INFO - BuildGraph: Connected isolated node 3 to 2 (distance: 156,16)
+[2025-06-10 18:56:21] INFO - BuildGraph: Connected isolated node B to 2 (distance: 92,22)
+[2025-06-10 18:56:21] INFO - BuildGraph: Connected isolated node C to 2 (distance: 98,14)
+[2025-06-10 18:56:21] INFO - BuildGraph: Connected isolated node D to 4 (distance: 164,62)
+[2025-06-10 18:56:21] INFO - BuildGraph: Connectivity check - Visited 4/8 nodes, Connected: false
+[2025-06-10 18:56:21] INFO - BuildGraph: Graph still not fully connected, adding minimum spanning tree edges
+[2025-06-10 18:56:21] INFO - BuildGraph: Finished. Final graph.getNodesMapSize(): 8, graph.getNodes().size(): 8, graph.getEdges().size(): 8, shapeToNodeMap size: 8
+[2025-06-10 18:56:21] DEBUG - Graph highlights have been reset.
+[2025-06-10 18:56:21] INFO - Shortest Path: Graph built with 8 nodes. Ready for manual selection.
+[2025-06-10 18:56:21] DEBUG - drawGraph called.
+[2025-06-10 18:56:21] INFO - DrawingCanvas.drawGraph: Processing graph with 8 nodes and 8 edges.
+[2025-06-10 18:56:21] INFO - DrawingCanvas.drawGraph: Total highlighted edges to draw: 0
+[2025-06-10 18:56:21] DEBUG - DrawingCanvas.drawGraph: Finished drawing graph elements.
+[2025-06-10 18:56:22] DEBUG - Clic de souris à (120,00, 122,40) - Mode: PATH_SELECTION, Click Count: 1
+[2025-06-10 18:56:22] INFO - Shortest Path: Using existing graph (no rebuild needed)
+[2025-06-10 18:56:22] INFO - CanvasClick: Clicked Shape Hash: 803275244, Mapped to Node ID: Circle_0adfc196, Label: A, Hash: 156194263
+[2025-06-10 18:56:22] INFO - Shortest Path: Start shape selected - A
+[2025-06-10 18:56:22] DEBUG - drawGraph called.
+[2025-06-10 18:56:22] INFO - DrawingCanvas.drawGraph: Processing graph with 8 nodes and 8 edges.
+[2025-06-10 18:56:22] INFO - DrawingCanvas.drawGraph: Total highlighted edges to draw: 0
+[2025-06-10 18:56:22] DEBUG - DrawingCanvas.drawGraph: Finished drawing graph elements.
+[2025-06-10 18:56:23] DEBUG - Clic de souris à (537,60, 311,20) - Mode: PATH_SELECTION, Click Count: 1
+[2025-06-10 18:56:23] INFO - Shortest Path: Using existing graph (no rebuild needed)
+[2025-06-10 18:56:23] INFO - CanvasClick: Clicked Shape Hash: 156615735, Mapped to Node ID: Circle_c9e11604, Label: C, Hash: 752259659
+[2025-06-10 18:56:23] INFO - Shortest Path: End shape selected - C. Calculating path.
+[2025-06-10 18:56:23] INFO - CanvasClick: Calling Dijkstra. Graph Hash: 1850116619, StartNode ID: Circle_0adfc196, Hash: 156194263, EndNode ID: Circle_c9e11604, Hash: 752259659
+[2025-06-10 18:56:23] INFO - DEBUG: Path calculation result:
+[2025-06-10 18:56:23] INFO -   - Path is null: false
+[2025-06-10 18:56:23] INFO -   - Path size: 0
+[2025-06-10 18:56:23] INFO - DEBUG: Graph edges count: 8
+[2025-06-10 18:56:23] INFO -   - Edge 0: A -> 1 (weight: 145.22203689523155)
+[2025-06-10 18:56:23] INFO -   - Edge 1: 4 -> A (weight: 154.86561916707012)
+[2025-06-10 18:56:23] INFO -   - Edge 2: 1 -> A (weight: 145.22203689523155)
+[2025-06-10 18:56:23] INFO -   - Edge 3: 2 -> B (weight: 92.2223400266985)
+[2025-06-10 18:56:23] INFO -   - Edge 4: 3 -> 2 (weight: 156.15889343870236)
+[2025-06-10 18:56:23] DEBUG - Graph highlights have been reset.
+[2025-06-10 18:56:23] INFO - Shortest Path: No path found.
+[2025-06-10 18:56:25] INFO - Session plus court chemin enregistrée: A → C (Dijkstra, 21,00ms)
+[2025-06-10 18:56:25] DEBUG - drawGraph called.
+[2025-06-10 18:56:25] INFO - DrawingCanvas.drawGraph: Processing graph with 8 nodes and 8 edges.
+[2025-06-10 18:56:25] INFO - DrawingCanvas.drawGraph: Total highlighted edges to draw: 0
+[2025-06-10 18:56:25] DEBUG - DrawingCanvas.drawGraph: Finished drawing graph elements.
+[2025-06-10 18:56:28] INFO - Nouveau dessin créé
+[2025-06-10 18:56:31] INFO - Type de forme sélectionné: CIRCLE
+[2025-06-10 18:56:32] DEBUG - Clic de souris à (168,80, 146,40) - Mode: PATH_SELECTION, Click Count: 1
+[2025-06-10 18:56:33] DEBUG - Clic de souris à (138,40, 118,40) - Mode: PATH_SELECTION, Click Count: 1
+[2025-06-10 18:56:35] INFO - Dessin effacé - 0 formes supprimées
+[2025-06-10 18:56:35] INFO - Dessin effacé
+[2025-06-10 18:56:36] DEBUG - Clic de souris à (175,20, 141,60) - Mode: PATH_SELECTION, Click Count: 1
+[2025-06-10 18:56:38] INFO - Nouveau dessin créé
+[2025-06-10 18:56:38] DEBUG - Clic de souris à (239,20, 201,60) - Mode: PATH_SELECTION, Click Count: 1
+[2025-06-10 18:56:39] DEBUG - Clic de souris à (239,20, 201,60) - Mode: PATH_SELECTION, Click Count: 1
+=== Session de logging terminée le 2025-06-10 18:56:40 ===

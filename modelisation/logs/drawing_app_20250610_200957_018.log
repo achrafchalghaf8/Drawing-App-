@@ -1,0 +1,14 @@
+=== NOUVEAU FICHIER DE LOG ===
+=== Session démarrée le 2025-06-10 20:09:57 ===
+=== Fichier: drawing_app_20250610_200957_018.log ===
+=== Répertoire: C:\Users\HP\Downloads\modelisation Proj\modelisation\modelisation\modelisation\modelisation\logs ===
+=== Basculement vers logging fichier ===
+
+[2025-06-10 20:09:57] INFO - TEST: FileLogger créé et fonctionnel
+[2025-06-10 20:09:57] INFO - TEST: Basculement vers logging fichier réussi
+[2025-06-10 20:09:57] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 20:09:57] DEBUG - Début du dessin à (188,00, 102,40)
+[2025-06-10 20:09:57] INFO - Forme ajoutée: Rectangle[x=188,00, y=102,40, width=146,40, height=108,00, color=0x000000ff]
+[2025-06-10 20:09:57] INFO - 2D Rectangle added at (188,00, 102,40)
+[2025-06-10 20:09:57] DEBUG - Clic de souris à (334,40, 210,40) - Mode: NORMAL, Click Count: 1
+=== Session de logging terminée le 2025-06-10 20:09:59 ===

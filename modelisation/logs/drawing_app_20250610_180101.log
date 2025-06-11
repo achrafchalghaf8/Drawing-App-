@@ -1,0 +1,21 @@
+=== Session de logging démarrée le 2025-06-10 18:01:01 ===
+[2025-06-10 18:01:01] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 18:01:02] DEBUG - Clic de souris à (305,60, 121,60) - Mode: PATH_SELECTION, Click Count: 1
+[2025-06-10 18:01:02] INFO - Shortest Path: Clicked on empty area.
+[2025-06-10 18:01:04] DEBUG - Clic de souris à (292,00, 308,80) - Mode: PATH_SELECTION, Click Count: 1
+[2025-06-10 18:01:04] INFO - Shortest Path: Clicked on empty area.
+[2025-06-10 18:01:05] DEBUG - Clic de souris à (181,60, 292,80) - Mode: PATH_SELECTION, Click Count: 1
+[2025-06-10 18:01:05] INFO - Shortest Path: Clicked on empty area.
+[2025-06-10 18:01:05] DEBUG - Clic de souris à (181,60, 291,20) - Mode: PATH_SELECTION, Click Count: 1
+[2025-06-10 18:01:05] INFO - Shortest Path: Clicked on empty area.
+[2025-06-10 18:01:05] DEBUG - Clic de souris à (181,60, 291,20) - Mode: PATH_SELECTION, Click Count: 2
+[2025-06-10 18:01:05] INFO - Shortest Path: Clicked on empty area.
+[2025-06-10 18:01:07] INFO - Type de forme sélectionné: CIRCLE
+[2025-06-10 18:01:08] DEBUG - Clic de souris à (324,00, 299,20) - Mode: PATH_SELECTION, Click Count: 1
+[2025-06-10 18:01:08] INFO - Shortest Path: Clicked on empty area.
+[2025-06-10 18:01:12] INFO - Dessin effacé - 7 formes supprimées
+[2025-06-10 18:01:12] INFO - Dessin effacé
+[2025-06-10 18:01:12] DEBUG - Clic de souris à (434,40, 316,80) - Mode: PATH_SELECTION, Click Count: 1
+[2025-06-10 18:01:13] DEBUG - Clic de souris à (369,60, 234,40) - Mode: PATH_SELECTION, Click Count: 1
+[2025-06-10 18:01:14] DEBUG - Clic de souris à (303,20, 206,40) - Mode: PATH_SELECTION, Click Count: 1
+=== Session de logging terminée le 2025-06-10 18:01:16 ===

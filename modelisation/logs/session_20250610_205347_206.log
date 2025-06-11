@@ -1,0 +1,25 @@
+=== FICHIER DE LOG DE SESSION ===
+=== Application de Dessin - Formes Géométriques ===
+=== Session démarrée le: 2025-06-10 20:53:47 ===
+=== Fichier: session_20250610_205347_206.log ===
+=== Répertoire: C:\Users\HP\Downloads\modelisation Proj\modelisation\modelisation\modelisation\modelisation\logs ===
+
+=== Session de logging démarrée le 2025-06-10 20:54:38 ===
+[2025-06-10 20:54:38] INFO - === BASCULEMENT VERS LOGGING FICHIER ===
+[2025-06-10 20:54:38] INFO - Session d'application - Logging fichier activé
+[2025-06-10 20:54:38] INFO - Fichier de session: logs/session_20250610_205347_206.log
+[2025-06-10 20:54:38] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 20:54:39] DEBUG - Début du dessin à (72,80, 76,80)
+[2025-06-10 20:54:41] INFO - Forme ajoutée: Rectangle[x=72,80, y=76,80, width=56,00, height=57,60, color=0x000000ff]
+[2025-06-10 20:54:41] INFO - 2D Rectangle added at (72,80, 76,80)
+[2025-06-10 20:54:41] DEBUG - Clic de souris à (128,80, 134,40) - Mode: NORMAL, Click Count: 1
+[2025-06-10 20:54:55] DEBUG - Début du dessin à (228,00, 337,60)
+[2025-06-10 20:54:56] INFO - Forme ajoutée: Rectangle[x=228,00, y=337,60, width=46,40, height=32,80, color=0x000000ff]
+[2025-06-10 20:54:56] INFO - 2D Rectangle added at (228,00, 337,60)
+[2025-06-10 20:54:56] DEBUG - Clic de souris à (274,40, 370,40) - Mode: NORMAL, Click Count: 1
+[2025-06-10 20:55:05] INFO - Nom du dessin changé: llllllllllllllll;,
+[2025-06-10 20:55:05] INFO - Dessin sauvegardé en base de données, ID: 11 avec 3 formes
+[2025-06-10 20:55:58] INFO - Nom du dessin changé: ms
+[2025-06-10 20:55:58] INFO - Dessin sauvegardé dans le fichier: ms.json (3 formes)
+[2025-06-10 20:56:13] INFO - Dessin ouvert depuis la base de données: new1 (ID: 6, 8 formes)
+=== Session de logging terminée le 2025-06-10 20:56:25 ===

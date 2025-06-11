@@ -1,0 +1,17 @@
+=== Session de logging démarrée le 2025-06-10 19:44:13 ===
+[2025-06-10 19:44:13] INFO - TEST: FileLogger créé et fonctionnel
+[2025-06-10 19:44:13] INFO - TEST: Basculement vers logging fichier réussi
+[2025-06-10 19:44:13] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 19:44:20] DEBUG - Début du dessin à (221,60, 165,60)
+[2025-06-10 19:44:20] INFO - Forme ajoutée: Rectangle[x=221,60, y=165,60, width=124,80, height=53,60, color=0x000000ff]
+[2025-06-10 19:44:20] INFO - 2D Rectangle added at (221,60, 165,60)
+[2025-06-10 19:44:20] DEBUG - Clic de souris à (346,40, 219,20) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:44:22] DEBUG - Début du dessin à (192,00, 436,80)
+[2025-06-10 19:44:22] INFO - Forme ajoutée: Rectangle[x=192,00, y=436,80, width=144,00, height=52,80, color=0x000000ff]
+[2025-06-10 19:44:22] INFO - 2D Rectangle added at (192,00, 436,80)
+[2025-06-10 19:44:22] DEBUG - Clic de souris à (336,00, 489,60) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:44:22] DEBUG - Début du dessin à (445,60, 400,80)
+[2025-06-10 19:44:23] INFO - Forme ajoutée: Rectangle[x=445,60, y=400,80, width=62,40, height=13,60, color=0x000000ff]
+[2025-06-10 19:44:23] INFO - 2D Rectangle added at (445,60, 400,80)
+[2025-06-10 19:44:23] DEBUG - Clic de souris à (508,00, 414,40) - Mode: NORMAL, Click Count: 1
+=== Session de logging terminée le 2025-06-10 19:47:47 ===

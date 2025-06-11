@@ -1,0 +1,23 @@
+=== FICHIER DE LOG DE SESSION ===
+=== Application de Dessin - Formes Géométriques ===
+=== Session démarrée le: 2025-06-10 22:06:20 ===
+=== Fichier: session_20250610_220620_404.log ===
+=== Répertoire: C:\Users\HP\Downloads\modelisation Proj\modelisation\modelisation\modelisation\modelisation\logs ===
+
+=== Session de logging démarrée le 2025-06-10 22:07:22 ===
+[2025-06-10 22:07:22] INFO - === BASCULEMENT VERS LOGGING FICHIER ===
+[2025-06-10 22:07:22] INFO - Session d'application - Logging fichier activé
+[2025-06-10 22:07:22] INFO - Fichier de session: logs/session_20250610_220620_404.log
+[2025-06-10 22:07:22] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 22:07:24] DEBUG - Début du dessin à (428,80, 178,40)
+[2025-06-10 22:07:25] INFO - Forme ajoutée: Rectangle[x=428,80, y=178,40, width=56,00, height=54,40, color=0x000000ff]
+[2025-06-10 22:07:25] INFO - 2D Rectangle added at (428,80, 178,40)
+[2025-06-10 22:07:25] DEBUG - Clic de souris à (484,80, 232,80) - Mode: NORMAL, Click Count: 1
+[2025-06-10 22:07:26] INFO - Type de forme sélectionné: CIRCLE
+[2025-06-10 22:07:29] INFO - Dimension type set to: D3
+[2025-06-10 22:07:30] INFO - Type de forme sélectionné: RECTANGLE
+[2025-06-10 22:07:30] DEBUG - Début du dessin à (230,40, 156,00)
+[2025-06-10 22:07:31] INFO - Forme ajoutée: Rectangle3D[x=230,40, y=156,00, color=0x000000ff]
+[2025-06-10 22:07:31] INFO - 3D Rectangle added at (230,40, 156,00)
+[2025-06-10 22:07:31] DEBUG - Clic de souris à (336,00, 244,80) - Mode: NORMAL, Click Count: 1
+=== Session de logging terminée le 2025-06-10 22:09:57 ===

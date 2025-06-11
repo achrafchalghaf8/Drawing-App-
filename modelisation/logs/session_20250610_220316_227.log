@@ -1,0 +1,20 @@
+=== FICHIER DE LOG DE SESSION ===
+=== Application de Dessin - Formes Géométriques ===
+=== Session démarrée le: 2025-06-10 22:03:16 ===
+=== Fichier: session_20250610_220316_227.log ===
+=== Répertoire: C:\Users\HP\Downloads\modelisation Proj\modelisation\modelisation\modelisation\modelisation\logs ===
+
+=== Session de logging démarrée le 2025-06-10 22:03:44 ===
+[2025-06-10 22:03:44] INFO - === BASCULEMENT VERS LOGGING FICHIER ===
+[2025-06-10 22:03:44] INFO - Session d'application - Logging fichier activé
+[2025-06-10 22:03:44] INFO - Fichier de session: logs/session_20250610_220316_227.log
+[2025-06-10 22:03:44] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 22:03:45] DEBUG - Début du dessin à (422,40, 192,00)
+[2025-06-10 22:03:45] INFO - Forme ajoutée: Rectangle[x=422,40, y=192,00, width=36,00, height=22,40, color=0x000000ff]
+[2025-06-10 22:03:45] INFO - 2D Rectangle added at (422,40, 192,00)
+[2025-06-10 22:03:45] DEBUG - Clic de souris à (458,40, 214,40) - Mode: NORMAL, Click Count: 1
+[2025-06-10 22:03:50] DEBUG - Début du dessin à (313,60, 367,20)
+[2025-06-10 22:03:51] INFO - Forme ajoutée: Rectangle[x=313,60, y=367,20, width=46,40, height=20,80, color=0x000000ff]
+[2025-06-10 22:03:51] INFO - 2D Rectangle added at (313,60, 367,20)
+[2025-06-10 22:03:51] DEBUG - Clic de souris à (360,00, 388,00) - Mode: NORMAL, Click Count: 1
+=== Session de logging terminée le 2025-06-10 22:03:54 ===

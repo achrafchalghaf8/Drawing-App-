@@ -1,0 +1,192 @@
+=== Session de logging démarrée le 2025-06-10 19:12:07 ===
+[2025-06-10 19:12:07] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 19:12:11] DEBUG - Début du dessin à (108,00, 89,60)
+[2025-06-10 19:12:13] INFO - Forme ajoutée: Rectangle[x=108,00, y=89,60, width=53,60, height=60,00, color=0x000000ff]
+[2025-06-10 19:12:13] INFO - 2D Rectangle added at (108,00, 89,60)
+[2025-06-10 19:12:13] DEBUG - Clic de souris à (161,60, 149,60) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:12:15] DEBUG - Début du dessin à (356,00, 97,60)
+[2025-06-10 19:12:16] INFO - Forme ajoutée: Rectangle[x=356,00, y=97,60, width=51,20, height=48,80, color=0x000000ff]
+[2025-06-10 19:12:16] INFO - 2D Rectangle added at (356,00, 97,60)
+[2025-06-10 19:12:16] DEBUG - Clic de souris à (407,20, 146,40) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:12:20] DEBUG - Début du dessin à (448,80, 260,80)
+[2025-06-10 19:12:22] INFO - Forme ajoutée: Rectangle[x=448,80, y=260,80, width=49,60, height=48,00, color=0x000000ff]
+[2025-06-10 19:12:22] INFO - 2D Rectangle added at (448,80, 260,80)
+[2025-06-10 19:12:22] DEBUG - Clic de souris à (498,40, 308,80) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:12:28] DEBUG - Début du dessin à (648,80, 131,20)
+[2025-06-10 19:12:31] INFO - Forme ajoutée: Rectangle[x=648,80, y=131,20, width=47,20, height=42,40, color=0x000000ff]
+[2025-06-10 19:12:31] INFO - 2D Rectangle added at (648,80, 131,20)
+[2025-06-10 19:12:31] DEBUG - Clic de souris à (696,00, 173,60) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:12:33] DEBUG - Début du dessin à (625,60, 340,00)
+[2025-06-10 19:12:35] INFO - Forme ajoutée: Rectangle[x=625,60, y=340,00, width=48,80, height=53,60, color=0x000000ff]
+[2025-06-10 19:12:35] INFO - 2D Rectangle added at (625,60, 340,00)
+[2025-06-10 19:12:35] DEBUG - Clic de souris à (674,40, 393,60) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:12:36] INFO - Type de forme sélectionné: LINE
+[2025-06-10 19:12:37] DEBUG - Début du dessin à (161,60, 114,40)
+[2025-06-10 19:12:39] INFO - Forme ajoutée: Line[start=(161,60,114,40), end=(357,60,122,40), color=0x000000ff]
+[2025-06-10 19:12:39] INFO - Forme créée: Line[start=(161,60,114,40), end=(357,60,122,40), color=0x000000ff]
+[2025-06-10 19:12:39] DEBUG - Clic de souris à (357,60, 122,40) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:12:44] DEBUG - Début du dessin à (393,60, 146,40)
+[2025-06-10 19:12:46] INFO - Forme ajoutée: Line[start=(393,60,146,40), end=(476,80,260,80), color=0x000000ff]
+[2025-06-10 19:12:46] INFO - Forme créée: Line[start=(393,60,146,40), end=(476,80,260,80), color=0x000000ff]
+[2025-06-10 19:12:46] DEBUG - Clic de souris à (476,80, 260,80) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:12:47] DEBUG - Début du dessin à (408,00, 125,60)
+[2025-06-10 19:12:50] INFO - Forme ajoutée: Line[start=(408,00,125,60), end=(651,20,338,40), color=0x000000ff]
+[2025-06-10 19:12:50] INFO - Forme créée: Line[start=(408,00,125,60), end=(651,20,338,40), color=0x000000ff]
+[2025-06-10 19:12:50] DEBUG - Clic de souris à (651,20, 338,40) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:12:55] DEBUG - Début du dessin à (536,80, 232,80)
+[2025-06-10 19:12:55] INFO - Forme ajoutée: Line[start=(536,80,232,80), end=(536,80,232,80), color=0x000000ff]
+[2025-06-10 19:12:55] INFO - Forme créée: Line[start=(536,80,232,80), end=(536,80,232,80), color=0x000000ff]
+[2025-06-10 19:12:55] DEBUG - Clic de souris à (536,80, 232,80) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:12:55] DEBUG - Début du dessin à (536,80, 232,80)
+[2025-06-10 19:12:55] INFO - Forme ajoutée: Line[start=(536,80,232,80), end=(536,80,232,80), color=0x000000ff]
+[2025-06-10 19:12:55] INFO - Forme créée: Line[start=(536,80,232,80), end=(536,80,232,80), color=0x000000ff]
+[2025-06-10 19:12:55] DEBUG - Clic de souris à (536,80, 232,80) - Mode: NORMAL, Click Count: 2
+[2025-06-10 19:12:55] INFO - Forme supprimée: Line[start=(408,00,125,60), end=(651,20,338,40), color=0x000000ff]
+[2025-06-10 19:12:55] INFO - Forme supprimée par double-clic: Line[start=(408,00,125,60), end=(651,20,338,40), color=0x000000ff]
+[2025-06-10 19:12:56] DEBUG - Début du dessin à (538,40, 224,80)
+[2025-06-10 19:12:57] INFO - Forme ajoutée: Line[start=(538,40,224,80), end=(538,40,224,80), color=0x000000ff]
+[2025-06-10 19:12:57] INFO - Forme créée: Line[start=(538,40,224,80), end=(538,40,224,80), color=0x000000ff]
+[2025-06-10 19:12:57] DEBUG - Clic de souris à (538,40, 224,80) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:12:57] DEBUG - Début du dessin à (538,40, 224,80)
+[2025-06-10 19:12:57] INFO - Forme ajoutée: Line[start=(538,40,224,80), end=(538,40,224,80), color=0x000000ff]
+[2025-06-10 19:12:57] INFO - Forme créée: Line[start=(538,40,224,80), end=(538,40,224,80), color=0x000000ff]
+[2025-06-10 19:12:57] DEBUG - Clic de souris à (538,40, 224,80) - Mode: NORMAL, Click Count: 2
+[2025-06-10 19:12:57] DEBUG - Début du dessin à (537,60, 232,80)
+[2025-06-10 19:12:57] INFO - Forme ajoutée: Line[start=(537,60,232,80), end=(537,60,232,80), color=0x000000ff]
+[2025-06-10 19:12:57] INFO - Forme créée: Line[start=(537,60,232,80), end=(537,60,232,80), color=0x000000ff]
+[2025-06-10 19:12:57] DEBUG - Clic de souris à (537,60, 232,80) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:12:58] DEBUG - Début du dessin à (537,60, 232,80)
+[2025-06-10 19:12:58] INFO - Forme ajoutée: Line[start=(537,60,232,80), end=(537,60,232,80), color=0x000000ff]
+[2025-06-10 19:12:58] INFO - Forme créée: Line[start=(537,60,232,80), end=(537,60,232,80), color=0x000000ff]
+[2025-06-10 19:12:58] DEBUG - Clic de souris à (537,60, 232,80) - Mode: NORMAL, Click Count: 2
+[2025-06-10 19:12:58] DEBUG - Début du dessin à (534,40, 232,80)
+[2025-06-10 19:12:58] INFO - Forme ajoutée: Line[start=(534,40,232,80), end=(534,40,232,80), color=0x000000ff]
+[2025-06-10 19:12:58] INFO - Forme créée: Line[start=(534,40,232,80), end=(534,40,232,80), color=0x000000ff]
+[2025-06-10 19:12:58] DEBUG - Clic de souris à (534,40, 232,80) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:12:59] DEBUG - Début du dessin à (534,40, 232,80)
+[2025-06-10 19:12:59] INFO - Forme ajoutée: Line[start=(534,40,232,80), end=(534,40,232,80), color=0x000000ff]
+[2025-06-10 19:12:59] INFO - Forme créée: Line[start=(534,40,232,80), end=(534,40,232,80), color=0x000000ff]
+[2025-06-10 19:12:59] DEBUG - Clic de souris à (534,40, 232,80) - Mode: NORMAL, Click Count: 2
+[2025-06-10 19:12:59] DEBUG - Début du dessin à (537,60, 231,20)
+[2025-06-10 19:12:59] INFO - Forme ajoutée: Line[start=(537,60,231,20), end=(537,60,231,20), color=0x000000ff]
+[2025-06-10 19:12:59] INFO - Forme créée: Line[start=(537,60,231,20), end=(537,60,231,20), color=0x000000ff]
+[2025-06-10 19:12:59] DEBUG - Clic de souris à (537,60, 231,20) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:12:59] DEBUG - Début du dessin à (537,60, 231,20)
+[2025-06-10 19:12:59] INFO - Forme ajoutée: Line[start=(537,60,231,20), end=(537,60,231,20), color=0x000000ff]
+[2025-06-10 19:12:59] INFO - Forme créée: Line[start=(537,60,231,20), end=(537,60,231,20), color=0x000000ff]
+[2025-06-10 19:12:59] DEBUG - Clic de souris à (537,60, 231,20) - Mode: NORMAL, Click Count: 2
+[2025-06-10 19:13:02] INFO - Dessin effacé - 17 formes supprimées
+[2025-06-10 19:13:02] INFO - Dessin effacé
+[2025-06-10 19:13:03] INFO - Type de forme sélectionné: RECTANGLE
+[2025-06-10 19:13:04] DEBUG - Début du dessin à (76,80, 68,00)
+[2025-06-10 19:13:05] INFO - Forme ajoutée: Rectangle[x=76,80, y=68,00, width=40,80, height=47,20, color=0x000000ff]
+[2025-06-10 19:13:05] INFO - 2D Rectangle added at (76,80, 68,00)
+[2025-06-10 19:13:05] DEBUG - Clic de souris à (117,60, 115,20) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:13:08] DEBUG - Début du dessin à (291,20, 75,20)
+[2025-06-10 19:13:10] INFO - Forme ajoutée: Rectangle[x=291,20, y=75,20, width=45,60, height=41,60, color=0x000000ff]
+[2025-06-10 19:13:10] INFO - 2D Rectangle added at (291,20, 75,20)
+[2025-06-10 19:13:10] DEBUG - Clic de souris à (336,80, 116,80) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:13:12] DEBUG - Début du dessin à (484,80, 76,80)
+[2025-06-10 19:13:14] INFO - Forme ajoutée: Rectangle[x=484,80, y=76,80, width=45,60, height=44,80, color=0x000000ff]
+[2025-06-10 19:13:14] INFO - 2D Rectangle added at (484,80, 76,80)
+[2025-06-10 19:13:14] DEBUG - Clic de souris à (530,40, 121,60) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:13:18] DEBUG - Début du dessin à (292,00, 206,40)
+[2025-06-10 19:13:19] INFO - Forme ajoutée: Rectangle[x=292,00, y=206,40, width=44,80, height=53,60, color=0x000000ff]
+[2025-06-10 19:13:19] INFO - 2D Rectangle added at (292,00, 206,40)
+[2025-06-10 19:13:19] DEBUG - Clic de souris à (336,80, 260,00) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:13:21] INFO - Type de forme sélectionné: LINE
+[2025-06-10 19:13:22] DEBUG - Début du dessin à (119,20, 85,60)
+[2025-06-10 19:13:24] INFO - Forme ajoutée: Line[start=(119,20,85,60), end=(290,40,90,40), color=0x000000ff]
+[2025-06-10 19:13:24] INFO - Forme créée: Line[start=(119,20,85,60), end=(290,40,90,40), color=0x000000ff]
+[2025-06-10 19:13:24] DEBUG - Clic de souris à (290,40, 90,40) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:13:25] DEBUG - Début du dessin à (310,40, 113,60)
+[2025-06-10 19:13:26] INFO - Forme ajoutée: Line[start=(310,40,113,60), end=(313,60,205,60), color=0x000000ff]
+[2025-06-10 19:13:26] INFO - Forme créée: Line[start=(310,40,113,60), end=(313,60,205,60), color=0x000000ff]
+[2025-06-10 19:13:26] DEBUG - Clic de souris à (313,60, 205,60) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:13:32] DEBUG - Début du dessin à (337,60, 98,40)
+[2025-06-10 19:13:34] INFO - Forme ajoutée: Line[start=(337,60,98,40), end=(484,80,99,20), color=0x000000ff]
+[2025-06-10 19:13:34] INFO - Forme créée: Line[start=(337,60,98,40), end=(484,80,99,20), color=0x000000ff]
+[2025-06-10 19:13:34] DEBUG - Clic de souris à (484,80, 99,20) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:13:35] DEBUG - Début du dessin à (337,60, 230,40)
+[2025-06-10 19:13:37] INFO - Forme ajoutée: Line[start=(337,60,230,40), end=(500,80,122,40), color=0x000000ff]
+[2025-06-10 19:13:37] INFO - Forme créée: Line[start=(337,60,230,40), end=(500,80,122,40), color=0x000000ff]
+[2025-06-10 19:13:37] DEBUG - Clic de souris à (500,80, 122,40) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:13:41] INFO - Shortest path mode activated. Waiting for manual node selection.
+[2025-06-10 19:13:41] INFO - Interaction mode set to: PATH_SELECTION
+[2025-06-10 19:13:41] INFO - BuildGraph: Initializing. shapeToNodeMap size before clear: 0
+[2025-06-10 19:13:41] INFO - BuildGraph: shapeToNodeMap size after clear: 0
+[2025-06-10 19:13:41] INFO - BuildGraph: Number of shapes retrieved from drawing: 8
+[2025-06-10 19:13:41] INFO - BuildGraph: Starting node creation loop. Initial graph.getNodesMapSize(): 0
+[2025-06-10 19:13:41] INFO - BuildGraph: Created Node ID: Rectangle_43247d21, Label: A, Hash: 554503982 for Shape Hash: 593981672 (Class: Rectangle). Current graph.getNodesMapSize(): 1, shapeToNodeMap size: 1
+[2025-06-10 19:13:41] INFO - BuildGraph: Created Node ID: Rectangle_e340ad0e, Label: B, Hash: 1901177496 for Shape Hash: 181613949 (Class: Rectangle). Current graph.getNodesMapSize(): 2, shapeToNodeMap size: 2
+[2025-06-10 19:13:41] INFO - BuildGraph: Created Node ID: Rectangle_215ef0c8, Label: C, Hash: 153023826 for Shape Hash: 65085264 (Class: Rectangle). Current graph.getNodesMapSize(): 3, shapeToNodeMap size: 3
+[2025-06-10 19:13:41] INFO - BuildGraph: Created Node ID: Rectangle_886cf78a, Label: D, Hash: 1313131788 for Shape Hash: 672934869 (Class: Rectangle). Current graph.getNodesMapSize(): 4, shapeToNodeMap size: 4
+[2025-06-10 19:13:41] INFO - BuildGraph: Created Node ID: Line_84d19cee, Label: 1, Hash: 133816213 for Shape Hash: 453905161 (Class: Line). Current graph.getNodesMapSize(): 5, shapeToNodeMap size: 5
+[2025-06-10 19:13:41] INFO - BuildGraph: Created Node ID: Line_6d1d1537, Label: 2, Hash: 2072031384 for Shape Hash: 300306651 (Class: Line). Current graph.getNodesMapSize(): 6, shapeToNodeMap size: 6
+[2025-06-10 19:13:41] INFO - BuildGraph: Created Node ID: Line_233edd0d, Label: 3, Hash: 88764127 for Shape Hash: 895791912 (Class: Line). Current graph.getNodesMapSize(): 7, shapeToNodeMap size: 7
+[2025-06-10 19:13:41] INFO - BuildGraph: Created Node ID: Line_8287ab50, Label: 4, Hash: 1838084055 for Shape Hash: 1397595878 (Class: Line). Current graph.getNodesMapSize(): 8, shapeToNodeMap size: 8
+[2025-06-10 19:13:41] INFO - BuildGraph: Finished node creation. Final graph.getNodesMapSize() before edge creation: 8, shapeToNodeMap size: 8
+[2025-06-10 19:13:41] INFO - BuildGraph: Number of nodes retrieved for edge creation: 8
+[2025-06-10 19:13:41] INFO - ProximityThreshold: Canvas(410x145), AvgDist=177,41, Nodes=8, Threshold=130,60
+[2025-06-10 19:13:41] INFO - BuildGraph: Using proximity threshold: 130,60
+[2025-06-10 19:13:41] INFO - BuildGraph: Created edge 1-B (distance: 109,49)
+[2025-06-10 19:13:41] INFO - BuildGraph: Created edge 1-2 (distance: 128,91)
+[2025-06-10 19:13:41] INFO - BuildGraph: Created edge 1-A (distance: 107,66)
+[2025-06-10 19:13:41] INFO - BuildGraph: Created edge B-3 (distance: 97,24)
+[2025-06-10 19:13:41] INFO - BuildGraph: Created edge B-2 (distance: 63,63)
+[2025-06-10 19:13:41] INFO - BuildGraph: Created edge D-4 (distance: 119,20)
+[2025-06-10 19:13:41] INFO - BuildGraph: Created edge D-2 (distance: 73,64)
+[2025-06-10 19:13:41] INFO - BuildGraph: Created edge 4-3 (distance: 78,01)
+[2025-06-10 19:13:41] INFO - BuildGraph: Created edge 4-C (distance: 117,36)
+[2025-06-10 19:13:41] INFO - BuildGraph: Created edge 4-2 (distance: 108,51)
+[2025-06-10 19:13:41] INFO - BuildGraph: Created edge 3-C (distance: 96,40)
+[2025-06-10 19:13:41] INFO - BuildGraph: Created edge 3-2 (distance: 116,35)
+[2025-06-10 19:13:41] INFO - BuildGraph: Created 12 edges with proximity threshold 130,60
+[2025-06-10 19:13:41] INFO - BuildGraph: Connectivity check - Visited 8/8 nodes, Connected: true
+[2025-06-10 19:13:41] INFO - BuildGraph: Finished. Final graph.getNodesMapSize(): 8, graph.getNodes().size(): 8, graph.getEdges().size(): 12, shapeToNodeMap size: 8
+[2025-06-10 19:13:41] DEBUG - Graph highlights have been reset.
+[2025-06-10 19:13:41] INFO - Shortest Path: Graph built with 8 nodes. Ready for manual selection.
+[2025-06-10 19:13:41] DEBUG - drawGraph called.
+[2025-06-10 19:13:41] INFO - DrawingCanvas.drawGraph: Processing graph with 8 nodes and 12 edges.
+[2025-06-10 19:13:41] INFO - DrawingCanvas.drawGraph: Total highlighted edges to draw: 0
+[2025-06-10 19:13:41] DEBUG - DrawingCanvas.drawGraph: Finished drawing graph elements.
+[2025-06-10 19:13:42] DEBUG - Clic de souris à (100,00, 98,40) - Mode: PATH_SELECTION, Click Count: 1
+[2025-06-10 19:13:42] INFO - Shortest Path: Using existing graph (no rebuild needed)
+[2025-06-10 19:13:42] INFO - CanvasClick: Clicked Shape Hash: 593981672, Mapped to Node ID: Rectangle_43247d21, Label: A, Hash: 554503982
+[2025-06-10 19:13:42] INFO - Shortest Path: Start shape selected - A
+[2025-06-10 19:13:42] DEBUG - drawGraph called.
+[2025-06-10 19:13:42] INFO - DrawingCanvas.drawGraph: Processing graph with 8 nodes and 12 edges.
+[2025-06-10 19:13:42] INFO - DrawingCanvas.drawGraph: Total highlighted edges to draw: 0
+[2025-06-10 19:13:42] DEBUG - DrawingCanvas.drawGraph: Finished drawing graph elements.
+[2025-06-10 19:13:43] DEBUG - Clic de souris à (516,00, 99,20) - Mode: PATH_SELECTION, Click Count: 1
+[2025-06-10 19:13:43] INFO - Shortest Path: Using existing graph (no rebuild needed)
+[2025-06-10 19:13:43] INFO - CanvasClick: Clicked Shape Hash: 65085264, Mapped to Node ID: Rectangle_215ef0c8, Label: C, Hash: 153023826
+[2025-06-10 19:13:43] INFO - Shortest Path: End shape selected - C. Calculating path.
+[2025-06-10 19:13:43] INFO - CanvasClick: Calling Dijkstra. Graph Hash: 784962533, StartNode ID: Rectangle_43247d21, Hash: 554503982, EndNode ID: Rectangle_215ef0c8, Hash: 153023826
+[2025-06-10 19:13:43] INFO - DEBUG: Path calculation result:
+[2025-06-10 19:13:43] INFO -   - Path is null: false
+[2025-06-10 19:13:43] INFO -   - Path size: 5
+[2025-06-10 19:13:43] INFO -   - Path nodes: A -> 1 -> B -> 3 -> C
+[2025-06-10 19:13:43] INFO - DEBUG: Graph edges count: 12
+[2025-06-10 19:13:43] INFO -   - Edge 0: 1 -> B (weight: 109.49264815502455)
+[2025-06-10 19:13:43] INFO -   - Edge 1: 1 -> 2 (weight: 128.91237333941223)
+[2025-06-10 19:13:43] INFO -   - Edge 2: 1 -> A (weight: 107.66020620452107)
+[2025-06-10 19:13:43] INFO -   - Edge 3: B -> 3 (weight: 97.24032085508556)
+[2025-06-10 19:13:43] INFO -   - Edge 4: B -> 2 (weight: 63.63143877046938)
+[2025-06-10 19:13:43] DEBUG - Graph highlights have been reset.
+[2025-06-10 19:13:43] INFO - Shortest Path: Path found with 5 nodes, total distance: 410,79
+[2025-06-10 19:13:43] DEBUG - drawGraph called.
+[2025-06-10 19:13:43] INFO - DrawingCanvas.drawGraph: Processing graph with 8 nodes and 12 edges.
+[2025-06-10 19:13:43] INFO - DrawingCanvas.drawGraph: Found HIGHLIGHTED Edge from '1' to 'B'
+[2025-06-10 19:13:43] INFO - DrawingCanvas.drawGraph: Found HIGHLIGHTED Edge from '1' to 'A'
+[2025-06-10 19:13:43] INFO - DrawingCanvas.drawGraph: Found HIGHLIGHTED Edge from 'B' to '3'
+[2025-06-10 19:13:43] INFO - DrawingCanvas.drawGraph: Found HIGHLIGHTED Edge from '3' to 'C'
+[2025-06-10 19:13:43] INFO - DrawingCanvas.drawGraph: Total highlighted edges to draw: 4
+[2025-06-10 19:13:43] INFO - DrawingCanvas.drawGraph: Drew highlighted path from '1' to 'B'.
+[2025-06-10 19:13:43] INFO - DrawingCanvas.drawGraph: Drew highlighted path from '1' to 'A'.
+[2025-06-10 19:13:43] INFO - DrawingCanvas.drawGraph: Drew highlighted path from 'B' to '3'.
+[2025-06-10 19:13:43] INFO - DrawingCanvas.drawGraph: Drew highlighted path from '3' to 'C'.
+[2025-06-10 19:13:43] DEBUG - DrawingCanvas.drawGraph: Finished drawing graph elements.
+[2025-06-10 19:14:12] INFO - Nom du dessin changé: new1
+[2025-06-10 19:14:12] INFO - Dessin sauvegardé en base de données, ID: 6 avec 8 formes
+=== Session de logging terminée le 2025-06-10 19:17:10 ===

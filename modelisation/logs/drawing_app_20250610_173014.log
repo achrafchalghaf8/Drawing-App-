@@ -1,0 +1,5 @@
+=== Session de logging démarrée le 2025-06-10 17:30:14 ===
+[2025-06-10 17:30:14] INFO - Test de logging - message 1
+[2025-06-10 17:30:14] WARNING - Test de logging - message 2
+[2025-06-10 17:30:14] ERROR - Test de logging - message 3
+=== Session de logging terminée le 2025-06-10 17:30:14 ===

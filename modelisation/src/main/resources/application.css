@@ -1,0 +1,316 @@
+/* Styles CSS pour l'application de dessin */
+
+/* Style général de l'application */
+.root {
+    -fx-font-family: "Segoe UI", Arial, sans-serif;
+    -fx-font-size: 12px;
+    -fx-background-color: #f5f5f5;
+}
+
+/* Barre de menu */
+.menu-bar {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #cccccc;
+    -fx-border-width: 0 0 1 0;
+}
+
+.menu-bar .menu {
+    -fx-padding: 5 10 5 10;
+}
+
+.menu-bar .menu:hover {
+    -fx-background-color: #e3f2fd;
+}
+
+/* Barre d'outils */
+.tool-bar {
+    -fx-background-color: #fafafa;
+    -fx-border-color: #cccccc;
+    -fx-border-width: 0 0 1 0;
+    -fx-padding: 5;
+}
+
+.tool-bar .button {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 3;
+    -fx-background-radius: 3;
+    -fx-padding: 5 10 5 10;
+    -fx-margin: 0 2 0 2;
+}
+
+.tool-bar .button:hover {
+    -fx-background-color: #e3f2fd;
+    -fx-border-color: #2196f3;
+}
+
+.tool-bar .button:pressed {
+    -fx-background-color: #bbdefb;
+}
+
+/* Palette d'outils */
+.shape-palette {
+    -fx-background-color: #f0f0f0;
+    -fx-border-color: #cccccc;
+    -fx-border-width: 0 1 0 0;
+    -fx-padding: 10;
+    -fx-spacing: 10;
+    -fx-min-width: 200;
+    -fx-max-width: 200;
+}
+
+.shape-palette .label {
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+}
+
+.shape-palette .radio-button {
+    -fx-padding: 3 0 3 0;
+}
+
+.shape-palette .radio-button:selected .radio {
+    -fx-background-color: #2196f3;
+}
+
+.shape-palette .color-picker {
+    -fx-pref-width: 150;
+}
+
+.shape-palette .slider {
+    -fx-pref-width: 150;
+}
+
+.shape-palette .separator {
+    -fx-padding: 5 0 5 0;
+}
+
+/* Zone de dessin */
+.drawing-canvas {
+    -fx-background-color: white;
+    -fx-border-color: #cccccc;
+    -fx-border-width: 1;
+    -fx-cursor: crosshair;
+}
+
+.drawing-canvas:focused {
+    -fx-border-color: #2196f3;
+    -fx-border-width: 2;
+}
+
+/* Barre de statut */
+.status-bar {
+    -fx-background-color: #f0f0f0;
+    -fx-border-color: #cccccc;
+    -fx-border-width: 1 0 0 0;
+    -fx-padding: 5 10 5 10;
+}
+
+.status-bar .label {
+    -fx-text-fill: #666666;
+    -fx-font-size: 11px;
+}
+
+/* Boîtes de dialogue */
+.dialog-pane {
+    -fx-background-color: #ffffff;
+}
+
+.dialog-pane .header-panel {
+    -fx-background-color: #f5f5f5;
+    -fx-border-color: #cccccc;
+    -fx-border-width: 0 0 1 0;
+}
+
+.dialog-pane .button-bar .button {
+    -fx-background-color: #2196f3;
+    -fx-text-fill: white;
+    -fx-border-radius: 3;
+    -fx-background-radius: 3;
+    -fx-padding: 8 16 8 16;
+}
+
+.dialog-pane .button-bar .button:hover {
+    -fx-background-color: #1976d2;
+}
+
+.dialog-pane .button-bar .button:default {
+    -fx-background-color: #4caf50;
+}
+
+.dialog-pane .button-bar .button:default:hover {
+    -fx-background-color: #388e3c;
+}
+
+.dialog-pane .button-bar .button:cancel-button {
+    -fx-background-color: #f44336;
+}
+
+.dialog-pane .button-bar .button:cancel-button:hover {
+    -fx-background-color: #d32f2f;
+}
+
+/* ComboBox */
+.combo-box {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 3;
+    -fx-background-radius: 3;
+}
+
+.combo-box:focused {
+    -fx-border-color: #2196f3;
+}
+
+.combo-box .list-cell {
+    -fx-padding: 5 10 5 10;
+}
+
+.combo-box .list-cell:hover {
+    -fx-background-color: #e3f2fd;
+}
+
+/* TextField */
+.text-field {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 3;
+    -fx-background-radius: 3;
+    -fx-padding: 5 10 5 10;
+}
+
+.text-field:focused {
+    -fx-border-color: #2196f3;
+    -fx-border-width: 2;
+}
+
+/* ScrollPane */
+.scroll-pane {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
+
+.scroll-pane .viewport {
+    -fx-background-color: white;
+}
+
+.scroll-pane .scroll-bar {
+    -fx-background-color: #f0f0f0;
+}
+
+.scroll-pane .scroll-bar .thumb {
+    -fx-background-color: #cccccc;
+    -fx-background-radius: 5;
+}
+
+.scroll-pane .scroll-bar .thumb:hover {
+    -fx-background-color: #999999;
+}
+
+/* Styles pour les nœuds de graphe */
+.graph-node {
+    -fx-fill: #e3f2fd;
+    -fx-stroke: #2196f3;
+    -fx-stroke-width: 2;
+}
+
+.graph-node:selected {
+    -fx-fill: #ff9800;
+    -fx-stroke: #f57c00;
+}
+
+.graph-node:visited {
+    -fx-fill: #c8e6c9;
+    -fx-stroke: #4caf50;
+}
+
+/* Styles pour les arêtes de graphe */
+.graph-edge {
+    -fx-stroke: #666666;
+    -fx-stroke-width: 2;
+}
+
+.graph-edge:highlighted {
+    -fx-stroke: #f44336;
+    -fx-stroke-width: 3;
+}
+
+/* Animations */
+.fade-in {
+    -fx-opacity: 0;
+    -fx-transition: opacity 0.3s ease-in;
+}
+
+.fade-in:hover {
+    -fx-opacity: 1;
+}
+
+/* Styles pour les alertes */
+.alert.information .header-panel {
+    -fx-background-color: #e3f2fd;
+}
+
+.alert.warning .header-panel {
+    -fx-background-color: #fff3e0;
+}
+
+.alert.error .header-panel {
+    -fx-background-color: #ffebee;
+}
+
+.alert.confirmation .header-panel {
+    -fx-background-color: #e8f5e8;
+}
+
+/* Styles pour les tooltips */
+.tooltip {
+    -fx-background-color: #333333;
+    -fx-text-fill: white;
+    -fx-background-radius: 3;
+    -fx-padding: 5 8 5 8;
+    -fx-font-size: 11px;
+}
+
+/* Styles pour les menus contextuels */
+.context-menu {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #cccccc;
+    -fx-border-width: 1;
+    -fx-background-radius: 3;
+    -fx-border-radius: 3;
+}
+
+.context-menu .menu-item {
+    -fx-padding: 5 15 5 15;
+}
+
+.context-menu .menu-item:hover {
+    -fx-background-color: #e3f2fd;
+}
+
+/* Styles pour les onglets */
+.tab-pane {
+    -fx-background-color: #ffffff;
+}
+
+.tab-pane .tab-header-area {
+    -fx-background-color: #f5f5f5;
+    -fx-border-color: #cccccc;
+    -fx-border-width: 0 0 1 0;
+}
+
+.tab-pane .tab {
+    -fx-background-color: #f5f5f5;
+    -fx-border-color: #cccccc;
+    -fx-border-width: 1 1 0 1;
+    -fx-background-radius: 5 5 0 0;
+    -fx-border-radius: 5 5 0 0;
+}
+
+.tab-pane .tab:selected {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #cccccc #cccccc #ffffff #cccccc;
+}
+
+.tab-pane .tab .tab-label {
+    -fx-padding: 5 10 5 10;
+}

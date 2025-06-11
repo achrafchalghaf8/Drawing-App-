@@ -1,0 +1,10 @@
+=== Session de logging démarrée le 2025-06-10 18:15:25 ===
+[2025-06-10 18:15:25] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 18:15:25] INFO - Test avec Fichier
+[2025-06-10 18:15:25] WARNING - Avertissement: Test avec Fichier
+=== Session de logging terminée le 2025-06-10 18:15:25 ===
+=== Session de logging démarrée le 2025-06-10 18:15:25 ===
+[2025-06-10 18:15:25] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 18:15:25] INFO - Retour au fichier
+[2025-06-10 18:15:25] WARNING - Avertissement: Retour au fichier
+=== Session de logging terminée le 2025-06-10 18:15:25 ===

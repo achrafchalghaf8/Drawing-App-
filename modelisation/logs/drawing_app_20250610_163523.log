@@ -1,0 +1,17 @@
+=== Session de logging démarrée le 2025-06-10 16:35:23 ===
+[2025-06-10 16:35:23] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 16:35:24] DEBUG - Début du dessin à (132,00, 132,80)
+[2025-06-10 16:35:24] INFO - Forme ajoutée: Rectangle[x=132,00, y=132,80, width=100,80, height=51,20, color=0x000000ff]
+[2025-06-10 16:35:24] INFO - 2D Rectangle added at (132,00, 132,80)
+[2025-06-10 16:35:24] DEBUG - Clic de souris à (232,80, 184,00) - Mode: NORMAL, Click Count: 1
+[2025-06-10 16:35:24] DEBUG - Début du dessin à (428,00, 235,20)
+[2025-06-10 16:35:25] INFO - Forme ajoutée: Rectangle[x=428,00, y=235,20, width=80,80, height=108,00, color=0x000000ff]
+[2025-06-10 16:35:25] INFO - 2D Rectangle added at (428,00, 235,20)
+[2025-06-10 16:35:25] DEBUG - Clic de souris à (508,80, 343,20) - Mode: NORMAL, Click Count: 1
+[2025-06-10 16:35:25] DEBUG - Début du dessin à (394,40, 335,20)
+[2025-06-10 16:35:25] INFO - Forme ajoutée: Rectangle[x=226,40, y=296,00, width=168,00, height=39,20, color=0x000000ff]
+[2025-06-10 16:35:25] INFO - 2D Rectangle added at (226,40, 296,00)
+[2025-06-10 16:35:25] DEBUG - Clic de souris à (226,40, 296,00) - Mode: NORMAL, Click Count: 1
+[2025-06-10 16:35:57] INFO - Nom du dessin changé: d
+[2025-06-10 16:35:57] INFO - Dessin sauvegardé dans le fichier: d.json (3 formes)
+=== Session de logging terminée le 2025-06-10 16:44:45 ===

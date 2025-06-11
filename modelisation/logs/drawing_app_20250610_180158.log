@@ -1,0 +1,52 @@
+=== Session de logging démarrée le 2025-06-10 18:01:58 ===
+[2025-06-10 18:01:58] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 18:01:58] DEBUG - Début du dessin à (497,60, 88,80)
+[2025-06-10 18:01:58] INFO - Forme ajoutée: Rectangle[x=497,60, y=88,80, width=156,80, height=90,40, color=0x000000ff]
+[2025-06-10 18:01:58] INFO - 2D Rectangle added at (497,60, 88,80)
+[2025-06-10 18:01:58] DEBUG - Clic de souris à (654,40, 179,20) - Mode: NORMAL, Click Count: 1
+[2025-06-10 18:01:59] DEBUG - Début du dessin à (567,20, 371,20)
+[2025-06-10 18:01:59] INFO - Forme ajoutée: Rectangle[x=567,20, y=371,20, width=243,20, height=109,60, color=0x000000ff]
+[2025-06-10 18:01:59] INFO - 2D Rectangle added at (567,20, 371,20)
+[2025-06-10 18:01:59] DEBUG - Début du dessin à (390,40, 441,60)
+[2025-06-10 18:01:59] INFO - Forme ajoutée: Rectangle[x=390,40, y=441,60, width=225,60, height=67,20, color=0x000000ff]
+[2025-06-10 18:01:59] INFO - 2D Rectangle added at (390,40, 441,60)
+[2025-06-10 18:01:59] DEBUG - Clic de souris à (616,00, 508,80) - Mode: NORMAL, Click Count: 1
+[2025-06-10 18:03:09] INFO - Nom du dessin changé: mmmmm
+[2025-06-10 18:03:09] INFO - Dessin sauvegardé en base de données, ID: 5 avec 5 formes
+[2025-06-10 18:04:07] INFO - Dessin effacé - 5 formes supprimées
+[2025-06-10 18:04:07] INFO - Dessin effacé
+[2025-06-10 18:04:07] DEBUG - Début du dessin à (194,40, 168,80)
+[2025-06-10 18:04:10] INFO - Forme ajoutée: Rectangle[x=194,40, y=168,80, width=32,80, height=37,60, color=0x000000ff]
+[2025-06-10 18:04:10] INFO - 2D Rectangle added at (194,40, 168,80)
+[2025-06-10 18:04:10] DEBUG - Clic de souris à (227,20, 206,40) - Mode: NORMAL, Click Count: 1
+[2025-06-10 18:04:10] DEBUG - Début du dessin à (432,80, 184,00)
+[2025-06-10 18:04:10] INFO - Forme ajoutée: Rectangle[x=432,80, y=184,00, width=116,00, height=49,60, color=0x000000ff]
+[2025-06-10 18:04:10] INFO - 2D Rectangle added at (432,80, 184,00)
+[2025-06-10 18:04:10] DEBUG - Clic de souris à (548,80, 233,60) - Mode: NORMAL, Click Count: 1
+[2025-06-10 18:04:11] DEBUG - Début du dessin à (503,20, 350,40)
+[2025-06-10 18:04:11] INFO - Forme ajoutée: Rectangle[x=503,20, y=350,40, width=59,20, height=18,40, color=0x000000ff]
+[2025-06-10 18:04:11] INFO - 2D Rectangle added at (503,20, 350,40)
+[2025-06-10 18:04:11] DEBUG - Clic de souris à (562,40, 368,80) - Mode: NORMAL, Click Count: 1
+[2025-06-10 18:04:11] DEBUG - Début du dessin à (298,40, 373,60)
+[2025-06-10 18:04:11] INFO - Forme ajoutée: Rectangle[x=298,40, y=373,60, width=179,20, height=54,40, color=0x000000ff]
+[2025-06-10 18:04:11] INFO - 2D Rectangle added at (298,40, 373,60)
+[2025-06-10 18:04:11] DEBUG - Clic de souris à (477,60, 428,00) - Mode: NORMAL, Click Count: 1
+[2025-06-10 18:04:12] DEBUG - Début du dessin à (284,80, 228,80)
+[2025-06-10 18:04:12] INFO - Forme ajoutée: Rectangle[x=284,80, y=228,80, width=128,00, height=75,20, color=0x000000ff]
+[2025-06-10 18:04:12] INFO - 2D Rectangle added at (284,80, 228,80)
+[2025-06-10 18:04:12] DEBUG - Clic de souris à (412,80, 304,00) - Mode: NORMAL, Click Count: 1
+[2025-06-10 18:04:13] DEBUG - Début du dessin à (308,00, 144,00)
+[2025-06-10 18:04:13] INFO - Forme ajoutée: Rectangle[x=308,00, y=144,00, width=32,80, height=24,80, color=0x000000ff]
+[2025-06-10 18:04:13] INFO - 2D Rectangle added at (308,00, 144,00)
+[2025-06-10 18:04:13] DEBUG - Clic de souris à (340,80, 168,80) - Mode: NORMAL, Click Count: 1
+[2025-06-10 18:04:13] DEBUG - Début du dessin à (403,20, 129,60)
+[2025-06-10 18:04:13] INFO - Forme ajoutée: Rectangle[x=403,20, y=129,60, width=66,40, height=44,80, color=0x000000ff]
+[2025-06-10 18:04:13] INFO - 2D Rectangle added at (403,20, 129,60)
+[2025-06-10 18:04:13] DEBUG - Clic de souris à (469,60, 174,40) - Mode: NORMAL, Click Count: 1
+[2025-06-10 18:04:14] DEBUG - Début du dessin à (692,00, 200,00)
+[2025-06-10 18:04:14] INFO - Forme ajoutée: Rectangle[x=692,00, y=200,00, width=0,00, height=0,00, color=0x000000ff]
+[2025-06-10 18:04:14] INFO - 2D Rectangle added at (692,00, 200,00)
+[2025-06-10 18:04:14] DEBUG - Clic de souris à (692,00, 200,00) - Mode: NORMAL, Click Count: 1
+[2025-06-10 18:04:27] INFO - Nom du dessin changé: l;,
+[2025-06-10 18:04:27] INFO - Dessin sauvegardé dans le fichier: l;,.json (8 formes)
+=== Session de logging terminée le 2025-06-10 18:05:53 ===

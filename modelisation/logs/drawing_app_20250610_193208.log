@@ -1,0 +1,38 @@
+=== Session de logging démarrée le 2025-06-10 19:32:08 ===
+[2025-06-10 19:32:08] INFO - TEST: FileLogger créé et fonctionnel
+[2025-06-10 19:32:08] INFO - TEST: Basculement vers logging fichier réussi
+[2025-06-10 19:32:08] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 19:32:10] INFO - Type de forme sélectionné: CIRCLE
+[2025-06-10 19:32:10] DEBUG - Début du dessin à (78,40, 106,40)
+[2025-06-10 19:32:11] INFO - Forme ajoutée: Circle[centerX=78,40, centerY=106,40, radius=58,32, color=0x000000ff]
+[2025-06-10 19:32:11] INFO - 2D Circle added at (78,40, 106,40)
+[2025-06-10 19:32:11] DEBUG - Clic de souris à (130,40, 132,80) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:32:41] DEBUG - Début du dessin à (293,60, 222,40)
+[2025-06-10 19:32:41] INFO - Forme ajoutée: Circle[centerX=293,60, centerY=222,40, radius=6,09, color=0x000000ff]
+[2025-06-10 19:32:41] INFO - 2D Circle added at (293,60, 222,40)
+[2025-06-10 19:32:41] DEBUG - Clic de souris à (299,20, 224,80) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:32:41] DEBUG - Début du dessin à (258,40, 140,00)
+[2025-06-10 19:32:42] INFO - Forme ajoutée: Circle[centerX=258,40, centerY=140,00, radius=134,30, color=0x000000ff]
+[2025-06-10 19:32:42] INFO - 2D Circle added at (258,40, 140,00)
+[2025-06-10 19:32:42] DEBUG - Clic de souris à (388,00, 175,20) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:32:42] DEBUG - Début du dessin à (561,60, 187,20)
+[2025-06-10 19:32:42] INFO - Forme ajoutée: Circle[centerX=561,60, centerY=187,20, radius=40,36, color=0x000000ff]
+[2025-06-10 19:32:42] INFO - 2D Circle added at (561,60, 187,20)
+[2025-06-10 19:32:42] DEBUG - Clic de souris à (587,20, 218,40) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:32:43] DEBUG - Début du dessin à (359,20, 290,40)
+[2025-06-10 19:32:43] INFO - Forme ajoutée: Circle[centerX=359,20, centerY=290,40, radius=79,36, color=0x000000ff]
+[2025-06-10 19:32:43] INFO - 2D Circle added at (359,20, 290,40)
+[2025-06-10 19:32:43] DEBUG - Clic de souris à (422,40, 338,40) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:32:43] DEBUG - Début du dessin à (275,20, 417,60)
+[2025-06-10 19:32:43] INFO - Forme ajoutée: Circle[centerX=275,20, centerY=417,60, radius=168,53, color=0x000000ff]
+[2025-06-10 19:32:43] INFO - 2D Circle added at (275,20, 417,60)
+[2025-06-10 19:32:43] DEBUG - Clic de souris à (424,80, 495,20) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:32:44] DEBUG - Début du dessin à (44,00, 438,40)
+[2025-06-10 19:32:44] INFO - Forme ajoutée: Circle[centerX=44,00, centerY=438,40, radius=0,00, color=0x000000ff]
+[2025-06-10 19:32:44] INFO - 2D Circle added at (44,00, 438,40)
+[2025-06-10 19:32:44] DEBUG - Clic de souris à (44,00, 438,40) - Mode: NORMAL, Click Count: 1
+[2025-06-10 19:32:45] DEBUG - Début du dessin à (216,80, 394,40)
+[2025-06-10 19:32:45] INFO - Forme ajoutée: Circle[centerX=216,80, centerY=394,40, radius=14,42, color=0x000000ff]
+[2025-06-10 19:32:45] INFO - 2D Circle added at (216,80, 394,40)
+[2025-06-10 19:32:45] DEBUG - Clic de souris à (230,40, 399,20) - Mode: NORMAL, Click Count: 1
+=== Session de logging terminée le 2025-06-10 19:33:06 ===

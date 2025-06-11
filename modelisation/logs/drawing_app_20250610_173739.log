@@ -1,0 +1,5 @@
+=== Session de logging démarrée le 2025-06-10 17:37:39 ===
+[2025-06-10 17:37:39] INFO - Application démarrée - Test FileLogger
+[2025-06-10 17:37:39] INFO - Test de création de formes
+[2025-06-10 17:37:39] WARNING - Test d'avertissement
+=== Session de logging terminée le 2025-06-10 17:37:39 ===

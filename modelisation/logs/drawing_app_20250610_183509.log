@@ -1,0 +1,4 @@
+=== Session de logging démarrée le 2025-06-10 18:35:09 ===
+[2025-06-10 18:35:09] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 18:35:29] INFO - Dessin ouvert depuis la base de données: new (ID: 1, 8 formes)
+=== Session de logging terminée le 2025-06-10 18:46:00 ===

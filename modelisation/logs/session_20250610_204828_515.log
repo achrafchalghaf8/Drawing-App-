@@ -1,0 +1,36 @@
+=== FICHIER DE LOG DE SESSION ===
+=== Application de Dessin - Formes Géométriques ===
+=== Session démarrée le: 2025-06-10 20:48:28 ===
+=== Fichier: session_20250610_204828_515.log ===
+=== Répertoire: C:\Users\HP\Downloads\modelisation Proj\modelisation\modelisation\modelisation\modelisation\logs ===
+
+=== Session de logging démarrée le 2025-06-10 20:48:42 ===
+[2025-06-10 20:48:42] INFO - === BASCULEMENT VERS LOGGING FICHIER ===
+[2025-06-10 20:48:42] INFO - Session d'application - Logging fichier activé
+[2025-06-10 20:48:42] INFO - Fichier de session: logs/session_20250610_204828_515.log
+[2025-06-10 20:48:42] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 20:48:43] DEBUG - Début du dessin à (218,40, 151,20)
+[2025-06-10 20:48:43] INFO - Forme ajoutée: Rectangle[x=218,40, y=151,20, width=0,00, height=0,00, color=0x000000ff]
+[2025-06-10 20:48:43] INFO - 2D Rectangle added at (218,40, 151,20)
+[2025-06-10 20:48:43] DEBUG - Clic de souris à (218,40, 151,20) - Mode: NORMAL, Click Count: 1
+[2025-06-10 20:48:44] DEBUG - Début du dessin à (218,40, 151,20)
+[2025-06-10 20:48:44] INFO - Forme ajoutée: Rectangle[x=218,40, y=151,20, width=0,00, height=0,00, color=0x000000ff]
+[2025-06-10 20:48:44] INFO - 2D Rectangle added at (218,40, 151,20)
+[2025-06-10 20:48:44] DEBUG - Clic de souris à (218,40, 151,20) - Mode: NORMAL, Click Count: 2
+[2025-06-10 20:48:44] INFO - Forme supprimée: Rectangle[x=218,40, y=151,20, width=0,00, height=0,00, color=0x000000ff]
+[2025-06-10 20:48:44] INFO - Forme supprimée par double-clic: Rectangle[x=218,40, y=151,20, width=0,00, height=0,00, color=0x000000ff]
+[2025-06-10 20:48:44] DEBUG - Début du dessin à (141,60, 131,20)
+[2025-06-10 20:48:45] INFO - Forme ajoutée: Rectangle[x=141,60, y=131,20, width=220,80, height=209,60, color=0x000000ff]
+[2025-06-10 20:48:45] INFO - 2D Rectangle added at (141,60, 131,20)
+[2025-06-10 20:48:45] DEBUG - Clic de souris à (362,40, 340,80) - Mode: NORMAL, Click Count: 1
+=== Session de logging terminée le 2025-06-10 20:50:36 ===
+=== Session de logging démarrée le 2025-06-10 20:50:38 ===
+[2025-06-10 20:50:38] INFO - === BASCULEMENT VERS LOGGING FICHIER ===
+[2025-06-10 20:50:38] INFO - Session d'application - Logging fichier activé
+[2025-06-10 20:50:38] INFO - Fichier de session: logs/session_20250610_204828_515.log
+[2025-06-10 20:50:38] INFO - Stratégie de logging changée: Fichier
+[2025-06-10 20:50:38] DEBUG - Début du dessin à (668,00, 193,60)
+[2025-06-10 20:50:38] INFO - Forme ajoutée: Rectangle[x=668,00, y=193,60, width=73,60, height=162,40, color=0x000000ff]
+[2025-06-10 20:50:38] INFO - 2D Rectangle added at (668,00, 193,60)
+[2025-06-10 20:50:38] DEBUG - Clic de souris à (741,60, 356,00) - Mode: NORMAL, Click Count: 1
+=== Session de logging terminée le 2025-06-10 20:50:55 ===
